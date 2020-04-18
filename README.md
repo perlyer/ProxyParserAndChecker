@@ -13,4 +13,4 @@ python 3.x.x
 
 Для запуска
 
-#### Так же подмечу, для того чтобы чекать proxy была взята частичка кода из: https://github.com/pythonism/proxy-checker
+#### Так же подмечу, для того чтобы чекать proxy, была взята частичка кода из: https://github.com/pythonism/proxy-checker
